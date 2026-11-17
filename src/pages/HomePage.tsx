@@ -78,7 +78,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onOpenConsultati
               </div>
 
               <h2 className="font-heading text-2xl sm:text-4xl md:text-5xl font-bold text-[#111C2B] leading-tight text-balance">
-                About pianoIP — Where Innovation Meets Precision
+                About PianoIP — Where Innovation Meets Precision
               </h2>
 
               <p className="text-sm sm:text-base text-[#151515]/85 leading-relaxed font-normal">

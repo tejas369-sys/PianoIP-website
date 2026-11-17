@@ -186,7 +186,7 @@ export const ContactPage: React.FC<{ isEmbedded?: boolean }> = ({ isEmbedded = f
             Direct Counsel
           </span>
           <h1 className="font-serif-display text-3xl sm:text-5xl md:text-6xl font-bold text-[#FFFEFA] tracking-tight">
-            Connect with pianoIP
+            Connect with PianoIP
           </h1>
         </div>
       </section>
